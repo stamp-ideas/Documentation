@@ -1,0 +1,13 @@
+//to-do list for the server configuration
+1.	ProFTP:  Upgrade server
+2.	PHP Version:
+Version 5.5.x before 5.5.27, and 5.6.x before 5.6.11
+3.	Mail Service 
+4.	SSL Certificate: 
+Install the certificate from a trusted third-party CA
+Add a reverse DNS lookup entry to the target IP
+5.	Disable AutoComplete Attribute for the Password field
+6.	PHP version expose: expose_php = 0ff *restart the server after the changing
+7.	Block Iframe 
+8.	Disable unused Script
+9.	Increase max memory, exe time for file upload
